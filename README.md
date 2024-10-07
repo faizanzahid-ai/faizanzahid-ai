@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Zahid</h1>
 <h3 align="center">A passionate AI / ML engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1uniBKOK5UwynZg1IiUwyx&ust=1728397255895000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODDzta7_IgDFQAAAAAdAAAAABAE">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanzahid-ai&label=Profile%20views&color=0e75b6&style=flat" alt="faizanzahid-ai" /> </p>
 
