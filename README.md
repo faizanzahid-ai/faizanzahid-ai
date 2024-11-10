@@ -130,15 +130,18 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faizanzahid-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
 <br><br>
 
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizanzahid-ai&theme=rogue)](https://github.com/faizanzahid-a/github-readme-activity-graph)
+
+
+
+
+<br><br>
+<br><br>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-    
-![snake animation](https://raw.githubusercontent.com/faizanzahid-ai/faizanzahid-ai/output/github-contribution-grid-snake2.svg)
-
 
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
   
