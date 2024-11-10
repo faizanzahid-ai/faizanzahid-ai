@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=045B62&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ch+Faizan+Zahid!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=045B62&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Geeks!+👋;+I'm+Ch+Faizan+Zahid!;+Let's+works+together🙂;+Python+Developer+🐍;+AI+Engineer+🤖;" />
 </h1>
 
 
@@ -71,6 +71,40 @@
 <img height="55px" width="55px" src="https://cdn.simpleicons.org/gamedeveloper/6B8E23" /> <!-- Olive Drab -->
 
 
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/c++/FF6347" /> <!-- Tomato -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/html5/FFA07A" /> <!-- Light Salmon -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/css3/87CEFA" /> <!-- Light Sky Blue -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/python/90EE90" /> <!-- Light Green -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/github/D3D3D3" /> <!-- Light Gray -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/gitlab/BC8F8F" /> <!-- Rosy Brown -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/git/FF7F50" /> <!-- Coral -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/pandas/7FFFD4" /> <!-- Aquamarine -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/scipy/DAA520" /> <!-- Goldenrod -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/scikitlearn/9370DB" /> <!-- Medium Purple -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/flask/F08080" /> <!-- Light Coral -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/mysql/66CDAA" /> <!-- Medium Aquamarine -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/node.js/ADD8E6" /> <!-- Light Blue -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/anaconda/D2B48C" /> <!-- Tan -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/numpy/98FB98" /> <!-- Pale Green -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/pycharm/FFA07A" /> <!-- Light Salmon -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/.net/87CEEB" /> <!-- Sky Blue -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/android/DA70D6" /> <!-- Orchid -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/activision/FFB6C1" /> <!-- Light Pink -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/affinity/DB7093" /> <!-- Pale Violet Red -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/bootstrap/E0FFFF" /> <!-- Light Cyan -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/unrealengine/ADD8E6" /> <!-- Light Blue -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/ubisoft/BA55D3" /> <!-- Medium Orchid -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/blender/F5DEB3" /> <!-- Wheat -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/unity/C0C0C0" /> <!-- Silver -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/godotengine/FF69B4" /> <!-- Hot Pink -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/gameloft/FF4500" /> <!-- Orange Red -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/epicgames/B0E0E6" /> <!-- Powder Blue -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/eslgaming/F4A460" /> <!-- Sandy Brown -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/nintendogamecube/EEE8AA" /> <!-- Pale Goldenrod -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/rockstargames/FAFAD2" /> <!-- Light Goldenrod Yellow -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/republicofgamers/ADFF2F" /> <!-- Green Yellow -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/riotgames/FF6347" /> <!-- Tomato -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/gamedeveloper/9ACD32" /> <!-- Yellow Green -->
 
 </div>
 
