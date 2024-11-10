@@ -136,7 +136,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/faizanzahid-ai/faizanzahid-ai/main/snakegame.svg" width="1500" height="200"  />
+    
+![snake animation](https://raw.githubusercontent.com/faizanzahid-ai/faizanzahid-ai/output/github-contribution-grid-snake2.svg)
+
+
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
   
   <br/><br/><br/>
 </div>
