@@ -65,40 +65,40 @@
 <div align="center">
 
 
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/c++/87CEEB" /> <!-- Steel Blue -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/html5/E44D26" /> <!-- HTML5 Red -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/css3/0096FF" /> <!-- CSS3 Blue -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/python/5DADE2" /> <!-- Python Green -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/github/B0B0B0" /> <!-- GitHub Charcoal -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/gitlab/FCA121" /> <!-- GitLab Orange -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/git/FF6B3B" /> <!-- Git Black -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/pandas/BB8FCE" /> <!-- Pandas Dark Green -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/scipy/8C8C8C" /> <!-- SciPy Grey -->
-<img height="65px" width="65px" src="https://cdn.simpleicons.org/scikitlearn/4C9ED9" /> <!-- Scikit-learn Blue -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/flask/00FFD1" /> <!-- Flask Black -->
-<img height="65px" width="65px" src="https://cdn.simpleicons.org/mysql/00CFFF" /> <!-- MySQL Blue -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/node.js/8CC84B" /> <!-- Node.js Green -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/c++/007EFF" /> <!-- Steel Blue -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/html5/A020F0" /> <!-- HTML5 Red -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/css3/FFE600" /> <!-- CSS3 Blue -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/python/8A2BE2" /> <!-- Python Green -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/github/FF4500" /> <!-- GitHub Charcoal -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/gitlab/DC143C" /> <!-- GitLab Orange -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/git/CCFF00" /> <!-- Git Black -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/pandas/FF1493" /> <!-- Pandas Dark Green -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/scipy/FFE600" /> <!-- SciPy Grey -->
+<img height="65px" width="65px" src="https://cdn.simpleicons.org/scikitlearn/4169E1" /> <!-- Scikit-learn Blue -->
+<img height="50px" width="50px" src="https://cdn.simpleicons.org/flask/FF1493" /> <!-- Flask Black -->
+<img height="65px" width="65px" src="https://cdn.simpleicons.org/mysql/8F00FF" /> <!-- MySQL Blue -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/node.js/00A86B" /> <!-- Node.js Green -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/anaconda/52A849" /> <!-- Anaconda Green -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/numpy/2EE59D" /> <!-- NumPy Dark Green -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/pycharm/32CD32" /> <!-- PyCharm Black -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/.net/C485DD" /> <!-- .NET Blue -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/android/3DDC84" /> <!-- Android Green -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/.net/FF0800" /> <!-- .NET Blue -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/android/32CD32" /> <!-- Android Green -->
 <img height="65px" width="65px" src="https://cdn.simpleicons.org/activision/00A9E0" /> <!-- Activision Blue -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/affinity/00E5FF" /> <!-- Affinity Teal -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/bootstrap/E75480" /> <!-- Bootstrap Purple -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/unrealengine/D3D3D3" /> <!-- Unreal Engine Gray -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/unrealengine/39FF14" /> <!-- Unreal Engine Gray -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/ubisoft/FE5B00" /> <!-- Ubisoft Orange -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/blender/F26A1F" /> <!-- Blender Medium Orange -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/unity/4F4F4F" /> <!-- Unity Black -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/godotengine/FF69B4" /> <!-- Godot Pink -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/unity/9400D3" /> <!-- Unity Black -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/godotengine/FF00CC" /> <!-- Godot Pink -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/gameloft/FF4500" /> <!-- Gameloft Orange -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/epicgames/A9A9A9" /> <!-- Epic Games Gray -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/eslgaming/C0C0C0" /> <!-- ESL Gaming Dark -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/nintendogamecube/1D9B6E" /> <!-- Nintendo Gamecube Green -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/rockstargames/FF6F20" /> <!-- Rockstar Games Medium Orange -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/republicofgamers/0085CF" /> <!-- Republic of Gamers Blue -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/riotgames/FF6347" /> <!-- Riot Games Red -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/gamedeveloper/9ACD32" /> <!-- Game Developer Green -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/epicgames/FF1E00" /> <!-- Epic Games Gray -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/eslgaming/DAA520" /> <!-- ESL Gaming Dark -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/nintendogamecube/A6FF00" /> <!-- Nintendo Gamecube Green -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/rockstargames/FF0099" /> <!-- Rockstar Games Medium Orange -->
+<img height="55px" width="55px" src="https://cdn.simpleicons.org/republicofgamers/0085CF" /> <!-- Republic of Gamers Blue -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/riotgames/8A2BE2"/> <!-- Riot Games Red -->
+<img height="45px" width="45px" src="https://cdn.simpleicons.org/gamedeveloper/CE2029" /> <!-- Game Developer Green -->
 
 
 
