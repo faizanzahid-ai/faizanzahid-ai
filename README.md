@@ -94,7 +94,7 @@
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/gameloft/FF4500" /> <!-- Gameloft Orange -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/epicgames/FF1E00" /> <!-- Epic Games Gray -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/eslgaming/DAA520" /> <!-- ESL Gaming Dark -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/nintendogamecube/A6FF00" /> <!-- Nintendo Gamecube Green -->
+
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/rockstargames/FF0099" /> <!-- Rockstar Games Medium Orange -->
 <img height="55px" width="55px" src="https://cdn.simpleicons.org/republicofgamers/0085CF" /> <!-- Republic of Gamers Blue -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/riotgames/8A2BE2"/> <!-- Riot Games Red -->
@@ -114,7 +114,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=faizanzahid-ai&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="390" height="200">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanzahid-ai&theme=radical&hide_border=false" width="390" height="200">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=faizanzahid-ai&theme=tokyonight&border_radius=5.2&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 <br/>
 
