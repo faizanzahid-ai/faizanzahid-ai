@@ -114,7 +114,8 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=faizanzahid-ai&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="390" height="200">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=faizanzahid-ai&theme=tokyonight&border_radius=5.2&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=faizanzahid-ai&theme=tokyonight&border_radius=5.2&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
 
 <br/>
 
