@@ -112,9 +112,9 @@
 <br>
 
 <div align=center>
-![](https://github-readme-stats.vercel.app/api?username=faizanzahid-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=faizanzahid-ai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanzahid-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://nirzak-streak-stats.vercel.app/?user=faizanzahid-ai&theme=dark&hide_border=false" />
+<br/>
+
 
 <br/>
 
@@ -142,16 +142,20 @@
 <br><br>
 <br><br>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+<h2>👻 My Contribution 👻 </h2>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/faizanzahid-ai/faizanzahid-ai/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/faizanzahid-ai/faizanzahid-ai/output/pacman-contribution-graph.svg">
+</picture>
 
-![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
-  
   <br/><br/><br/>
 </div>
 
 <hr/>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
