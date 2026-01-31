@@ -22,7 +22,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, Computer Vision**
+ 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, Computer Vision, AI Automation, Agentic AI**
 
 💬 Ask me about **C++, Python, Flask... or anything [here](https://github.com/faizanzahid-ai)**
 
@@ -48,13 +48,7 @@
   
 <h2>👀 Visitor's Count 👀</h2>
 
-![](https://komarev.com/ghpvc/?username=faizanzahid-ai&color=ff69b4)
-
-
-![Visitor Count](https://profile-counter.glitch.me/faizanzahid-ai/count.svg)
-
-
-  
+[![Ch Faizan Zahid profile views](https://u8views.com/api/v1/github/profiles/177461507/views/day-week-month-total-count.svg)](https://u8views.com/github/faizanzahid-ai)
 </div>
 
 <br><br>
@@ -67,8 +61,6 @@
 
 
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/c++/007EFF" /> <!-- Steel Blue -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/html5/A020F0" /> <!-- HTML5 Red -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/css3/FFE600" /> <!-- CSS3 Blue -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/python/8A2BE2" /> <!-- Python Green -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/github/FF4500" /> <!-- GitHub Charcoal -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/gitlab/DC143C" /> <!-- GitLab Orange -->
@@ -85,7 +77,6 @@
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/.net/FF0800" /> <!-- .NET Blue -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/android/32CD32" /> <!-- Android Green -->
 <img height="65px" width="65px" src="https://cdn.simpleicons.org/activision/00A9E0" /> <!-- Activision Blue -->
-<img height="45px" width="45px" src="https://cdn.simpleicons.org/affinity/00E5FF" /> <!-- Affinity Teal -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/bootstrap/E75480" /> <!-- Bootstrap Purple -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/unrealengine/39FF14" /> <!-- Unreal Engine Gray -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/ubisoft/FE5B00" /> <!-- Ubisoft Orange -->
@@ -95,14 +86,10 @@
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/gameloft/FF4500" /> <!-- Gameloft Orange -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/epicgames/FF1E00" /> <!-- Epic Games Gray -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/eslgaming/DAA520" /> <!-- ESL Gaming Dark -->
-
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/rockstargames/FF0099" /> <!-- Rockstar Games Medium Orange -->
 <img height="55px" width="55px" src="https://cdn.simpleicons.org/republicofgamers/0085CF" /> <!-- Republic of Gamers Blue -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/riotgames/8A2BE2"/> <!-- Riot Games Red -->
 <img height="45px" width="45px" src="https://cdn.simpleicons.org/gamedeveloper/CE2029" /> <!-- Game Developer Green -->
-
-
-
 
 <br><br>
 
@@ -144,14 +131,9 @@
 <div align="center">
 <h2>👻 My Contribution 👻 </h2>
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/faizanzahid-ai/faizanzahid-ai/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/faizanzahid-ai/faizanzahid-ai/output/pacman-contribution-graph.svg">
-</picture>
 
-  <br/><br/><br/>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizanzahid-ai/faizanzahid-ai/output/pacman-contribution-graph-dark.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faizanzahid-ai/faizanzahid-ai/output/pacman-contribution-graph.svg"> </picture>
+  <br/><br/>
 </div>
 
 <hr/>
