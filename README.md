@@ -51,7 +51,8 @@
 ![](https://komarev.com/ghpvc/?username=faizanzahid-ai&color=ff69b4)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{faizanzahid-ai}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/faizanzahid-ai/count.svg)
+
 
   
 </div>
