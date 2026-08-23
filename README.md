@@ -98,33 +98,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align=center>
-<img src="https://nirzak-streak-stats.vercel.app/?user=faizanzahid-ai&theme=dark&hide_border=false" />
-<br/>
 
-
-<br/>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanzahid-ai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="325">
-
-</div>
-
-<br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=faizanzahid-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br><br>
-
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizanzahid-ai&theme=rogue)](https://github.com/faizanzahid-a/github-readme-activity-graph)
-
-
-
 
 <br><br>
 <br><br>
