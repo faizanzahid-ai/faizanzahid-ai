@@ -95,10 +95,6 @@
 
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
